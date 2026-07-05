@@ -1,3 +1,8 @@
+---
+title: Caminhos
+draft: true
+---
+
 Pra seguir saindo daqui
 ### Pessoas
 [Andre](https://www.are.na/andre-vacha/channels)

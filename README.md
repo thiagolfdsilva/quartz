@@ -1,4 +1,4 @@
-# Quartz v4
+# Quartz v4 - Base
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
@@ -8,10 +8,11 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+## Implementation
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Run with
+```
+npx quartz build --serve
+```
+
+Currently deployed to: https://thiago.wiki.br
